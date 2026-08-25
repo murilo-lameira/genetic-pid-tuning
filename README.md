@@ -37,4 +37,4 @@ Após a evolução genética de 100 gerações, a IA convergiu para os seguintes
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/tuning-pid-genetico.git](https://github.com/seu-usuario/tuning-pid-genetico.git)
+git clone https://github.com/murilo-lameira/genetic-pid-tuning.git
